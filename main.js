@@ -1,8 +1,5 @@
-'use strict';
-
+import 'whatwg-fetch'
 import './style.css'
-
-console.log(1)
 
 document.querySelector('#app').innerHTML = `
   <form class="captcha-form" action="" id="captcha-form">

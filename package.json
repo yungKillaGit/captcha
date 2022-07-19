@@ -13,6 +13,7 @@
     "vite": "^3.0.0"
   },
   "dependencies": {
-    "@vitejs/plugin-legacy": "^2.0.0"
+    "@vitejs/plugin-legacy": "^2.0.0",
+    "whatwg-fetch": "^3.6.2"
   }
 }
